@@ -30,14 +30,17 @@ A Flutter-based grocery shopping application. The app integrates a smart shoppin
 
 ## Screenshots
 
-### Login Screen
-![Login Screen](path-to-login-screenshot)
-
 ### Home Screen
-![Home Screen](path-to-home-screenshot)
+<img width="943" alt="cap-1" src="https://github.com/user-attachments/assets/f57f9aaf-0d83-4ed3-85ef-00643218c316" />
+
+### Recommendations
+![cap](https://github.com/user-attachments/assets/bcb6ca3d-c071-4de2-b5e8-3bfb34e72236)
+
 
 ### Grocery List Screen
-![Grocery List Screen](path-to-grocery-list-screenshot)
+![CAP-12](https://github.com/user-attachments/assets/c51c133d-3fbd-444e-bbed-80c9f05eda2e)
+
+
 
 ---
 

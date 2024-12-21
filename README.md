@@ -1,46 +1,16 @@
-# Grocery_store_application
+# capstone_project
 
-A Flutter-based grocery shopping application. The app integrates a smart shopping system that fetches product details and recommends related products based on user activity. It also includes features for maintaining a grocery list and managing a shopping cart.
+A new Flutter project.
 
----
+## Getting Started
 
-## Features
+This project is a starting point for a Flutter application.
 
-- **Login with Phone Number**  
-  Simple login interface where users can log in using their phone numbers.
+A few resources to get you started if this is your first Flutter project:
 
-- **Barcode Scanning**  
-  Fetch product details by entering a barcode (5+ characters). Product information like name and price is retrieved from a backend server.
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-- **Shopping Cart**  
-  - Add, remove, and manage items in the shopping cart.
-  - Update item quantities.
-  - View the total price of the cart in real-time.
-
-- **Product Recommendations**  
-  - Recommends related products based on the current items in the cart.
-  - Displays recommendations fetched from a backend service.
-
-- **Grocery List Management**  
-  - Maintain a list of grocery items.
-  - Add items directly from a predefined list of available products.
-  - Remove items from the list.
-
----
-
-## Screenshots
-
-### Home Screen
-<img width="943" alt="cap-1" src="https://github.com/user-attachments/assets/f57f9aaf-0d83-4ed3-85ef-00643218c316" />
-
-### Recommendations
-![cap](https://github.com/user-attachments/assets/bcb6ca3d-c071-4de2-b5e8-3bfb34e72236)
-
-
-### Grocery List Screen
-![CAP-12](https://github.com/user-attachments/assets/c51c133d-3fbd-444e-bbed-80c9f05eda2e)
-
-
-
----
-
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
